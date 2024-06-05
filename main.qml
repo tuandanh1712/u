@@ -8,4 +8,5 @@ Window {
     title: qsTr("Hello World")
     abc
     xyz
+    edit
 }
