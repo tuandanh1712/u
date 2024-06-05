@@ -3,10 +3,10 @@ import QtQuick.Window 2.12
 
 Window {
     width: 640
-    height: 480
-    visible: true
+    height: 350
     title: qsTr("Hello World")
     abc
+123
     xyz
     edit
    // fix qmllint rul e01
