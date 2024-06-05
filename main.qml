@@ -5,10 +5,14 @@ Window {
     width: 640
     height: 350
     title: qsTr("Hello World")
+ádas
     abc
 123
     xyz
     edit
    // fix qmllint rul e01
-   sdasd
+   sdasd'
+
+
+ádasd
 }
