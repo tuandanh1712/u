@@ -9,6 +9,6 @@ Window {
     abc
     xyz
     edit
-
-sdasd
+   // fix qmllint rul e01
+   sdasd
 }
