@@ -9,4 +9,6 @@ Window {
     abc
     xyz
     edit
+
+sdasd
 }
